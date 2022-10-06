@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="login">Login</string>
+    <string name="buat_akun">Create Account</string>
+    <string name="Input_username">Input Username</string>
+    <string name="input_password">Input Password</string>
+</resources>
